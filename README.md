@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeclanMc96
-- 👀 I’m interested in DevOps - Gaming - Coding
-- 🌱 I’m currently studying BSC Hons in Computing (Cyber Security)
+- Digital Forensics & Incident Response (DFIR) Analyst.
+- First Class BSc Cyber Security.
+- Focused on endpoint triage, SIEM detection engineering, and threat containment.
   
 <!---
 DeclanMc96/DeclanMc96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
