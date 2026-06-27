@@ -6,5 +6,5 @@
 - 📫 [LinkedIn] www.linkedin.com/in/declan-mcgrath-hughes-18a05a2b5
 
 ## Projects
-- 🔧 [SOC Automated Triage Tool](https://github.com/DeclanMc96/soc-triage-tool) — Python CLI for automated IP reputation lookups
-- 🔍 [DFIR Case Study: AfricanFalls](https://github.com/DeclanMc96/dfir-case-study-AfricanFalls) — Host-based forensics investigation
+- 🔧 [SOC Automated Triage Tool] https://github.com/DeclanMc96/soc-automated-triage-tool — Python CLI for automated IP reputation lookups
+- 🔍 [DFIR Case Study: AfricanFalls] https://declanmc96.github.io/dfir-case-study-AfricanFalls/ — Host-based forensics investigation
