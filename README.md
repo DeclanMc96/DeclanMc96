@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeclanMc96
-- Digital Forensics & Incident Response (DFIR) Analyst.
+- SOC Analyst & Incident Response (DFIR) Analyst.
 - First Class BSc Cyber Security.
 - Focused on endpoint triage, SIEM detection engineering, and threat containment.
   
