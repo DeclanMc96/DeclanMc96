@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @DeclanMc96
-- Aspiring SOC Analyst & Incident Response (DFIR) Analyst.
-- First Class BSc Cyber Security.
-- Focused on endpoint triage, SIEM detection engineering, and threat containment.
-  
-<!---
-DeclanMc96/DeclanMc96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Declan McGrath-Hughes 👋
+
+- 🎓 BSc Cyber Security — First Class Honours, 2026
+- 🔍 Aspiring SOC Analyst & DFIR Analyst
+- 🛠️ Focused on endpoint triage, SIEM detection engineering, and threat containment
+- 📫 [LinkedIn] www.linkedin.com/in/declan-mcgrath-hughes-18a05a2b5
+
+## Projects
+- 🔧 [SOC Automated Triage Tool](https://github.com/DeclanMc96/soc-triage-tool) — Python CLI for automated IP reputation lookups
+- 🔍 [DFIR Case Study: AfricanFalls](https://github.com/DeclanMc96/dfir-case-study-AfricanFalls) — Host-based forensics investigation
